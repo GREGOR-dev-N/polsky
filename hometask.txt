@@ -1,2 +1,13 @@
 есть коммиты которые есть в ветке демо но нет в мастер их 2
 и есть коммиты которые есть в мастер но их нет в демо их 3
+
+Всего 9
+Ok
+Ok
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+Init
